@@ -1,0 +1,49 @@
+{
+  "gallery": {
+    "title": "أيقونات قانونية فاخرة",
+    "subtitle": "مجموعة أيقونات متميزة للتطبيقات القانونية",
+    "search": "بحث الأيقونات...",
+    "searchPlaceholder": "البحث بالاسم أو الوسم",
+    "filters": "التصفية",
+    "allCategories": "جميع الفئات",
+    "size": "الحجم",
+    "variant": "النمط",
+    "motion": "الحركة",
+    "theme": "السمة",
+    "light": "فاتح",
+    "dark": "داكن",
+    "copySuccess": "تم النسخ!",
+    "copyUsage": "نسخ الاستخدام",
+    "copySvg": "نسخ SVG",
+    "outline": "خطي",
+    "duotone": "ثنائي اللون",
+    "threeD": "ثلاثي الأبعاد",
+    "animated": "متحرك",
+    "off": "إيقاف",
+    "hover": "عند التمرير",
+    "loop": "تكرار",
+    "featuredCollections": "المجموعات المميزة",
+    "iconsCount": "أيقونات",
+    "noResults": "لم يتم العثور على أيقونات",
+    "tryAdjusting": "جرب تعديل البحث أو التصفية"
+  },
+  "categories": {
+    "court": "المحكمة",
+    "documents": "الوثائق والعقود",
+    "security": "الأمان والامتثال",
+    "finance": "المالية والفواتير",
+    "people": "الأشخاص",
+    "tools": "الأدوات"
+  },
+  "collections": {
+    "coreCourt": "أساسيات المحكمة",
+    "documentsContracts": "الوثائق والعقود",
+    "securityCompliance": "الأمان والامتثال",
+    "financeBilling": "المالية والفواتير"
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية",
+    "switch": "تغيير اللغة"
+  }
+}
