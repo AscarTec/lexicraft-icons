@@ -1,0 +1,49 @@
+{
+  "gallery": {
+    "title": "Luxury Legal Icons",
+    "subtitle": "Premium icon collection for legal applications",
+    "search": "Search icons...",
+    "searchPlaceholder": "Search by name or tag",
+    "filters": "Filters",
+    "allCategories": "All Categories",
+    "size": "Size",
+    "variant": "Variant",
+    "motion": "Motion",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "copySuccess": "Copied to clipboard!",
+    "copyUsage": "Copy Usage",
+    "copySvg": "Copy SVG",
+    "outline": "Outline",
+    "duotone": "Duotone",
+    "threeD": "3D Sculpted",
+    "animated": "Animated",
+    "off": "Off",
+    "hover": "Hover",
+    "loop": "Loop",
+    "featuredCollections": "Featured Collections",
+    "iconsCount": "icons",
+    "noResults": "No icons found",
+    "tryAdjusting": "Try adjusting your search or filters"
+  },
+  "categories": {
+    "court": "Court",
+    "documents": "Documents & Contracts",
+    "security": "Security & Compliance",
+    "finance": "Finance & Billing",
+    "people": "People",
+    "tools": "Tools"
+  },
+  "collections": {
+    "coreCourt": "Core Court",
+    "documentsContracts": "Documents & Contracts",
+    "securityCompliance": "Security & Compliance",
+    "financeBilling": "Finance & Billing"
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية",
+    "switch": "Switch Language"
+  }
+}
